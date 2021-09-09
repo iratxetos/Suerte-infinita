@@ -4,10 +4,12 @@
     box-sizing: border-box;
     font-family: "Rubik", sans-serif;
   }
+.body_index{
+  background-color: #32dac4;
+}
 
-.main {
-    background-color: #32dac4;
-    display: flex;
+.main_index {
+        display: flex;
     flex-direction: column;
     justify-content: center;
     align-items: center;
@@ -45,9 +47,9 @@ button:hover {
       
 }
 
-.main_second {
+.body_second {
         background-color: pink;
-        height: 100vh;
+        /* height: 100vh; */
       
     
   }
